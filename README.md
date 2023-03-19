@@ -11,10 +11,22 @@ dentro para seleccionar.
 En este apartado se puede encontrar las monedas más conocidas como ($) Dolar Estadounidense, (€) Euro, (£) Libra Esterlina, (¥) Yen, (₩) Won Sur Coreano, con este tipo
 de monedas se puede realizar los cambios respectivos entre ellas.
 
+![](images/capturaprincipal.png)
+
 ## Conversor de Temperatura
 
+![](images/textoConversorTemperaturaV.gif)
+
 En este apartado se puede encontrar los grados con los que se midan la temperatura en diferentes lugares del mundo, estas temperaturas son: (°C) grados celsius, (°F) 
-grados farenheit, (K) grados Kelvin, y los diferentes cambios que existen entre ellas.
+grados farenheit, (°K) grados Kelvin, y los diferentes cambios que existen entre ellas.
 
-## Conversor de Unidades de longitu
+![](images/interfazConversorTemp.png)
 
+## Conversor de Unidades de longitud
+
+![](images/textoConversorUnidades.gif)
+
+En este apartado se puede encontrar las unidades de longitud mas conocidas como: (Km) Kilometro, (m) Metro, (cm) Centimetro, (mm) Milimetro, y entre las cuales se puede 
+realizar las conversiones que se deseen y seleccionen con el combobox dentro del formulario.
+
+![](images/interfazConversorUnidades.png)
