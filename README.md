@@ -6,6 +6,8 @@ dentro para seleccionar.
 
 ## Conversor de moneda
 
+![](images/textoConversorMoneda.gif)
+
 En este apartado se puede encontrar las monedas más conocidas como ($) Dolar Estadounidense, (€) Euro, (£) Libra Esterlina, (¥) Yen, (₩) Won Sur Coreano, con este tipo
 de monedas se puede realizar los cambios respectivos entre ellas.
 
